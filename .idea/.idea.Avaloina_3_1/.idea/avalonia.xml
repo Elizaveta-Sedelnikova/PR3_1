@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Avaloina_3_1/AdminWindow.axaml" value="Avaloina_3_1/Avaloina_3_1.csproj" />
+        <entry key="Avaloina_3_1/App.axaml" value="Avaloina_3_1/Avaloina_3_1.csproj" />
+        <entry key="Avaloina_3_1/EditWindow.axaml" value="Avaloina_3_1/Avaloina_3_1.csproj" />
+        <entry key="Avaloina_3_1/MainWindow.axaml" value="Avaloina_3_1/Avaloina_3_1.csproj" />
+        <entry key="Avaloina_3_1/RegistrationWindow.axaml" value="Avaloina_3_1/Avaloina_3_1.csproj" />
+        <entry key="Avaloina_3_1/UserWindow.axaml" value="Avaloina_3_1/Avaloina_3_1.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
